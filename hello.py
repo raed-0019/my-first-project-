@@ -1,4 +1,4 @@
-name ="Raed" 
-preint ("Hello, GitHob!" ) 
-preint("My name is", name) 
-preint("I am studing computer Science")
+name = input("what is your name? ")
+age = input("How old are you? ")
+print("Hello",name )
+preint("You are",age , "years old")
